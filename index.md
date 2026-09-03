@@ -45,6 +45,6 @@
 - Advances in Separation Logics (ASL 2022) Haifa, Israel, July 31st, 2022
 - International Joint Conference on Automated Reasoning (IJCAR 2022) Haifa, Israel, August 7-12, 2022
 - 14th Summer School on Modelling and Verification of Parallel Processes (MOVEP 2020) June 22-26, 2020, Grenoble
-- Second Workshop on Automated Deduction for Separation Logics January 20th, 2020, New Orleans, LA (affiliated with POPL 2020)
+- Second Workshop on Automated Deduction for Separation Logics January 20th, 2020, New Orleans, LA (POPL 2020)
 - Journées GT Verif 28, 29, 30 May 2018, Grenoble
-- First Workshop on Automated Deduction for Separation Logics July 13th 2018, Oxford, UK (affiliated with LICS 2018)
+- First Workshop on Automated Deduction for Separation Logics July 13th 2018, Oxford, UK (LICS 2018)
