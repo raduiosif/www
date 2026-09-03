@@ -24,8 +24,8 @@ Radu [dot] Iosif [at] univ-grenoble-alpes [dot] fr <br>
 
 #### Teaching
 
-- Logic and Automata Theory (lat.md)
-- Introduction to the Theory of Formal Languages (tfl.md)
+- [Logic and Automata Theory](lat.md)
+- [Introduction to the Theory of Formal Languages](tfl.md)
 
 #### PhD Students/Alumni
 
