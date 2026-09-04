@@ -1,3 +1,5 @@
+title: Logic and Automata Theory
+
 #### Lecturer: Radu Iosif
 
 Formal language theory is the study of representations of infinite
