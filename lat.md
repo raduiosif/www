@@ -1,8 +1,17 @@
-## Logic and Automata Theory
-
 #### Lecturer: Radu Iosif
 
-Formal language theory is the study of representations of infinite sets of (finite or infinite) objects (words, trees, graphs, etc.). These representations can be descriptive (logical) or constructive (based on algebras). The aim of the course is to introduce the student to the basic notions of logics and automata used to describe infinite sets. We shall emphasize the various connections that exist between logics and automata theory, thus providing robust definitions of the classes of objects (words, trees) that can be equivalently represented in both logical and automata-theoretic ways. These representations are the basis of formal methods, such as verification and synthesis, that aim to help engineers design correct hardware and software systems.
+Formal language theory is the study of representations of infinite
+sets of (finite or infinite) objects (words, trees, graphs,
+etc.). These representations can be descriptive (logical) or
+constructive (based on algebras). The aim of the course is to
+introduce the student to the basic notions of logics and automata used
+to describe infinite sets. We shall emphasize the various connections
+that exist between logics and automata theory, thus providing robust
+definitions of the classes of objects (words, trees) that can be
+equivalently represented in both logical and automata-theoretic
+ways. These representations are the basis of formal methods, such as
+verification and synthesis, that aim to help engineers design correct
+hardware and software systems.
 
 #### Syllabus:
 
@@ -13,24 +22,15 @@ Formal language theory is the study of representations of infinite sets of (fini
 
 #### Prerequisites:
 
-Basic notions of boolean logic and discrete mathematics (sets, relations, orders, functions); see preliminaries for an introduction to the basic notions required by this course
+Basic notions of boolean logic and discrete mathematics (sets,
+relations, orders, functions); see preliminaries for an introduction
+to the basic notions required by this course
 
-#### Level: PhD and Master 1-2
+Level: PhD and Master 1-2
 
-#### Schedule: Wednesdays between 14h00 and 17h00 (Paris time, GMT+1), from March 6nd to May 15th
+Schedule: Wednesdays between 14h00 and 17h00 (Paris time, GMT+1), from March 6nd to May 15th
 
-- Mar 6, 2024 02:00 PM slides
-- Mar 13, 2024 02:00 PM (no class due to out-of-office leave)
-- Mar 20, 2024 02:00 PM slides
-- Mar 27, 2024 02:00 PM slides
-- Apr 3, 2024 02:00 PM slides
-- Apr 10, 2024 02:00 PM slides
-- Apr 17, 2024 02:00 PM slides
-- Apr 24, 2024 02:00 PM (no class due to easter holiday)
-- May 1, 2024 02:00 PM (no class due to national holiday)
-- May 8, 2024 02:00 PM (no class due to national holiday)
-- May 15, 2024 02:00 PM slides
-- May 22, 2024 02:00 PM slides
+- [Lecture 1](lat/lecture1.pdf)
 
 #### Additional material
 
