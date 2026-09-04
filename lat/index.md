@@ -1,9 +1,3 @@
-layout: page
-title: Logic and Automata Theory
-permalink: /lat
-
-#### Lecturer: Radu Iosif
-
 Formal language theory is the study of representations of infinite
 sets of (finite or infinite) objects (words, trees, graphs,
 etc.). These representations can be descriptive (logical) or
