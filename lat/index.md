@@ -1,4 +1,6 @@
+layout: page
 title: Logic and Automata Theory
+permalink: /lat
 
 #### Lecturer: Radu Iosif
 
