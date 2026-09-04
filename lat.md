@@ -31,6 +31,13 @@ Level: PhD and Master 1-2
 Schedule: Wednesdays between 14h00 and 17h00 (Paris time, GMT+1), from March 6nd to May 15th
 
 - [Lecture 1](lat/lecture1.pdf)
+- [Lecture 2](lat/lecture2.pdf)
+- [Lecture 3](lat/lecture3.pdf)
+- [Lecture 4](lat/lecture4.pdf)
+- [Lecture 5](lat/lecture5.pdf)
+- [Lecture 6](lat/lecture6.pdf)
+- [Lecture 7](lat/lecture7.pdf)
+- [Lecture 8](lat/lecture8.pdf)
 
 #### Additional material
 
