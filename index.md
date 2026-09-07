@@ -15,12 +15,12 @@
 
 #### Funding
 
-- PAVEDYS (2024-2028)
-- NARCO (2022-2026)
+- [PAVEDYS](https://raduiosif.github.io/PAVEDYS/) (2024-2028)
+- [NARCO](https://narco2022.github.io/) (2022-2026)
 - VECOLIB (2014-2018)
-- VERIDYC (2009-2013)
-- AVERILES (2006-2009)
-- DYNAMO (2003-2006)
+- [VERIDYC](https://sites.google.com/site/veridyc/) (2009-2013)
+- [AVERILES](https://lsv.ens-paris-saclay.fr/Projects/rntl-averiles/) (2006-2009)
+- [DYNAMO](https://www-verimag.imag.fr/~iosif/projects/ACI/aci-dynamo.html) (2003-2006)
 
 #### Teaching
 
