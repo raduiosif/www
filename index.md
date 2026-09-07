@@ -45,5 +45,5 @@
 - [Advances in Separation Logics](https://asl-workshop.github.io/asl22) (ASL 2022) Haifa, Israel, July 31st, 2022
 - [14th Summer School on Modelling and Verification of Parallel Processes](http://projects-verimag.imag.fr/movep2020) (MOVEP 2020) June 22-26, 2020, Grenoble
 - [Second Workshop on Automated Deduction for Separation Logics](https://popl20.sigplan.org/home/adsl-2020#program) January 20th, 2020, New Orleans, LA (POPL 2020)
-- [Journées GT Verif](http://gt-verif.loria.fr/Wiki.jsp?page=JA-2018) 28, 29, 30 May 2018, Grenoble
+- [Journées GT Verif](https://gt-verif.lis-lab.fr/journees-annuelles-2018) 28, 29, 30 May 2018, Grenoble
 - [First Workshop on Automated Deduction for Separation Logics](http://adsl.univ-grenoble-alpes.fr) July 13th 2018, Oxford, UK (LICS 2018)
