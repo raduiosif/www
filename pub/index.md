@@ -1,23 +1,75 @@
-<img align="left" src="Newspapers-stacked.jpg">
+<img align="right" src="Newspapers-stacked.jpg"><br>
 
 #### Journals
 
-* R. Iosif and F. Zuleger. [Characterizations of Monadic Second Order Definable Context-free Sets of Graphs](https://lmcs.episciences.org/17687). Logical Methods in Computer Science (LMCS) Volume 22, Issue 1, 2026, pp. 22:1–22:30
-* M. Bozga, R. Iosif, J. Sifakis. [Verification of component-based systems with recursive architectures](https://doi.org/10.1016/j.tcs.2022.10.022). Theoretical Computer Science (TCS) Volume 940 pp 146-175 (2023)
-* M. Echenim, R. Iosif, N. Peltier. [Entailment is Undecidable for Symbolic Heap Separation Logic Formulae with Non-Established Inductive Rules](https://www.sciencedirect.com/science/article/pii/S0020019021000843?dgcid=coauthor). Information Processing Letters (IPL) Volume 173 (2022)
-* M. Bozga, R. Iosif and J. Sifakis. [Entailment is Undecidable for Symbolic Heap Separation Logic Formulae with Non-Established Inductive Rules](https://www.sciencedirect.com/science/article/pii/S2352220820301061). Journal of Logical and Algebraic Methods in Programming (JLAMP) Volume 119 (2021)
-* M. Echenim, R. Iosif and N. Peltier. [The Bernays-Schoenfinkel-Ramsey Class of Separation Logic with Uninterpreted Predicates](https://hal.archives-ouvertes.fr/hal-02388326). ACM Transactions on Computational Logic (TOCL) 21(3): 19:1-19:46 (2020)
-* L. Holik, R. Iosif, A. Rogalewicz and T. Vojnar. [Abstraction Refinement and Antichains for Trace Inclusion of Infinite State Systems](https://doi.org/10.1007/s10703-020-00345-1). Formal Methods in System Design (FMSD)  Volume 55, pages 137–170 (2020)
-* P. Ganty, R. Iosif and F. Konecny. [Underapproximation of Procedure Summaries for Integer Programs](http://link.springer.com/article/10.1007%2Fs10009-016-0420-7) Software Tools for Technology Transfer, pp 1-20 
-* M. Bozga, R. Iosif and F. Konecny. [Deciding Conditional Termination](http://arxiv.org/abs/1302.2762) Logical Methods in Computer Science, Vol. 10(3:8) 2014 pp 1-61
-* R. Iosif and A. Rogalewicz. Automata-based termination proofs. Computing and Informatics, Vol.22 (2013) pp 1001-1035
-* A. Bouajjani, M. Bozga, P. Habermehl, R. Iosif, P. Moro and T. Vojnar. Programs with Lists are Counter Automata. Formal Methods in System Design, Vol. 38(2) (2011) pp 158-192 
-* M. Bozga, R. Iosif, S. Perarnau. Quantitative Separation Logic and Programs with Lists. Journal of Automated Reasoning, Vol. 45(2) (2010) pp 131-156
-* P. Habermehl, R. Iosif, T. Vojnar. Automata-based Verification of Programs with Tree Updates. Acta Informatica: Vol. 47(1) (2010) pp 1-31
-* M. Bozga, R. Iosif, Y. Lakhnech. Flat Parametric Counter Automata. Fundamenta Informaticae, Vol. 91(2) (2009) pp 275 - 303
-* R. Iosif. Symmetry Reductions for Model Checking of Concurrent Dynamic Software. Software Tools for Technology Transfer, Vol. 6(4), pp 302 - 319
-* R. Iosif, M. Dwyer, J. Hatcliff. Translating Java for Multiple Model Checkers: the Bandera Back End. Formal Methods in System Design, Vol. 26(2) (2005), pp 137-180
-* R. Iosif, R. Sisto. Temporal Logic Properties of Java Objects. Journal of Systems and Software, Vol. 68(3) (2003) pp 243-251
-* C. Demartini, R. Iosif, R. Sisto. A Deadlock Detection Tool For Concurrent Java Programs. Software: Practice & Experience, Vol. 29(7) (1999), pp 577-603
+- R. Iosif and F. Zuleger. [Characterizations of Monadic Second Order Definable Context-free Sets of Graphs](https://lmcs.episciences.org/17687). Logical Methods in Computer Science (LMCS) Volume 22, Issue 1, 2026, pp. 22:1–22:30
+- M. Bozga, R. Iosif, J. Sifakis. [Verification of component-based systems with recursive architectures](https://doi.org/10.1016/j.tcs.2022.10.022). Theoretical Computer Science (TCS) Volume 940 pp 146-175 (2023)
+- M. Echenim, R. Iosif, N. Peltier. [Entailment is Undecidable for Symbolic Heap Separation Logic Formulae with Non-Established Inductive Rules](https://www.sciencedirect.com/science/article/pii/S0020019021000843?dgcid=coauthor). Information Processing Letters (IPL) Volume 173 (2022)
+- M. Bozga, R. Iosif and J. Sifakis. [Entailment is Undecidable for Symbolic Heap Separation Logic Formulae with Non-Established Inductive Rules](https://www.sciencedirect.com/science/article/pii/S2352220820301061). Journal of Logical and Algebraic Methods in Programming (JLAMP) Volume 119 (2021)
+- M. Echenim, R. Iosif and N. Peltier. [The Bernays-Schoenfinkel-Ramsey Class of Separation Logic with Uninterpreted Predicates](https://hal.archives-ouvertes.fr/hal-02388326). ACM Transactions on Computational Logic (TOCL) 21(3): 19:1-19:46 (2020)
+- L. Holik, R. Iosif, A. Rogalewicz and T. Vojnar. [Abstraction Refinement and Antichains for Trace Inclusion of Infinite State Systems](https://doi.org/10.1007/s10703-020-00345-1). Formal Methods in System Design (FMSD)  Volume 55, pages 137–170 (2020)
+- P. Ganty, R. Iosif and F. Konecny. [Underapproximation of Procedure Summaries for Integer Programs](http://link.springer.com/article/10.1007%2Fs10009-016-0420-7) Software Tools for Technology Transfer, pp 1-20 
+- M. Bozga, R. Iosif and F. Konecny. [Deciding Conditional Termination](http://arxiv.org/abs/1302.2762) Logical Methods in Computer Science, Vol. 10(3:8) 2014 pp 1-61
+- R. Iosif and A. Rogalewicz. Automata-based termination proofs. Computing and Informatics, Vol.22 (2013) pp 1001-1035
+- A. Bouajjani, M. Bozga, P. Habermehl, R. Iosif, P. Moro and T. Vojnar. Programs with Lists are Counter Automata. Formal Methods in System Design, Vol. 38(2) (2011) pp 158-192 
+- M. Bozga, R. Iosif, S. Perarnau. Quantitative Separation Logic and Programs with Lists. Journal of Automated Reasoning, Vol. 45(2) (2010) pp 131-156
+- P. Habermehl, R. Iosif, T. Vojnar. Automata-based Verification of Programs with Tree Updates. Acta Informatica: Vol. 47(1) (2010) pp 1-31
+- M. Bozga, R. Iosif, Y. Lakhnech. Flat Parametric Counter Automata. Fundamenta Informaticae, Vol. 91(2) (2009) pp 275 - 303
+- R. Iosif. Symmetry Reductions for Model Checking of Concurrent Dynamic Software. Software Tools for Technology Transfer, Vol. 6(4), pp 302 - 319
+- R. Iosif, M. Dwyer, J. Hatcliff. Translating Java for Multiple Model Checkers: the Bandera Back End. Formal Methods in System Design, Vol. 26(2) (2005), pp 137-180
+- R. Iosif, R. Sisto. Temporal Logic Properties of Java Objects. Journal of Systems and Software, Vol. 68(3) (2003) pp 243-251
+- C. Demartini, R. Iosif, R. Sisto. A Deadlock Detection Tool For Concurrent Java Programs. Software: Practice & Experience, Vol. 29(7) (1999), pp 577-603
 
 #### Conference proceedings
+
+- Marius Bozga, Radu Iosif, Florian Zuleger. [Regular Grammars as Effective Representations of Recognizable Sets of Series-Parallel Graphs](https://doi.org/10.4230/LIPIcs.MFCS.2026.79). MFCS 2026. Volume 386, pp. 79:1-79:18
+- Christoffer Lind Andersen, Radu Iosif, Arnaud Sangnier. [Safety Analysis in Broadcast Networks Defined by Graph Grammars](https://hal.science/hal-05528808/). PETRI NETS 2026, pp. 267-288
+- Marius Bozga, Radu Iosif, Florian Zuleger. [Iterating Non-Aggregative Structure Compositions](https://arxiv.org/abs/2510.06019). FSTTCS 2025, pp 18:1-18:18
+- Marius Bozga, Radu Iosif, Arnaud Sangnier, Neven Villani. [Counting Abstraction and Decidability for the Verification of Structured Parameterized Networks](https://dl.acm.org/doi/10.1007/978-3-031-98682-6_13) CAV 2025, pp 238-262
+- Marius Bozga, Radu Iosif, Florian Zuleger. [Regular Grammars for Sets of Graphs of Tree-Width 2](https://www.computer.org/csdl/proceedings-article/lics/2025/790000a704/2aFJRkxJDmE). LICS 2025, pp 704-717
+- Radu Iosif, Arnaud Sangnier, Neven Villani. [Verifying Parameterized Networks Specified by Vertex-Replacement Graph Grammars](https://dl.acm.org/doi/10.1007/978-3-032-00347-8_4). NETYS 2025, pp 57-80
+- Mark Chimes, Radu Iosif and Florian Zuleger. [Tree-Verifiable Graph Grammars](https://easychair.org/publications/paper/8LGS). LPAR 2024, pp 165-180
+- Radu Iosif, Florian Zuleger. [Expressiveness Results for an Inductive Logic of Separated Relations](https://drops.dagstuhl.de/opus/volltexte/2023/19014). CONCUR 2023, pp 20:1-20:20
+- Marius Bozga, Lucas Bueri, Radu Iosif. [On an Invariance Problem for Parameterized Concurrent Systems](https://drops.dagstuhl.de/opus/volltexte/2022/17087). CONCUR 2022, pp 24:1-24:16 
+- Marius Bozga, Lucas Bueri, Radu Iosif. [Decision Problems in a Logic for Reasoning about Reconfigurable Distributed Systems](https://arxiv.org/abs/2202.09637).  IJCAR 2022, pp 691-711
+- Emma Ahrens, Marius Bozga, Radu Iosif, Joost-Pieter Katoen. [Reasoning about Distributed Reconfigurable Systems](https://dl.acm.org/doi/10.1145/3563293). OOPSLA 2022, pp 145–174
+- M. Bozga, R. Iosif. Verifying Safety Properties of Inductively Defined Parameterized Systems. FACS 2021, pp 95-114
+- M. Echenim, R. Iosif, N. Peltier. Unifying Decidable Entailments in Separation Logic with Inductive Definitions. CADE 2021, pp 183-199
+- M. Echenim, R. Iosif, N. Peltier. [Decidable Entailments in Separation Logic with Inductive Definitions: Beyond Established Systems](https://drops.dagstuhl.de/opus/volltexte/2021/13454). CSL 2021, pp 1--18
+- M. Echenim, R. Iosif, N. Peltier. [Entailment Checking in Separation Logic with Inductive Definitions is 2-EXPTIME hard](https://easychair.org/publications/paper/DdNg). LPAR 2020, pp 191--211
+- M. Bozga, J. Esparza, R. Iosif, J. Sifakis and C. Welzel. [Structural Invariants for the Verification of Systems with Parameterized Architectures](https://arxiv.org/abs/2002.07672). TACAS (1) 2020, pp 228--246
+- R. Iosif and X. Xu. [Alternating Automata Modulo First Order Theories](https://link.springer.com/chapter/10.1007/978-3-030-25543-5_3), CAV 2019, Part II, pp 43--63
+- M. Echenim, R. Iosif and N. Peltier. The Bernays-Schoenfinkel-Ramsey Class of Separation Logic on Arbitrary Domains, FOSSACS 2019, pp 242--259
+- M. Echenim, R. Iosif, N. Peltier. Prenex Separation Logic with One Selector Field. TABLEAUX 2019, pp 409--427
+- M. Bozga, R. Iosif and J. Sifakis. Checking Deadlock-Freedom of Parametric Component-Based Systems. TACAS 2019, Part II, pp 3-20
+- R. Iosif and C. Serban. A Complete Cyclic Proof System for Inductive Entailments in First Order Logic. LPAR 2018, pp 435--453
+- R. Iosif and X. Xu. Abstraction Refinement for Emptiness Checking of Alternating Data Automata. TACAS 2018, pp 93-111
+- A. Reynolds, R. Iosif and C. Serban. Reasoning in the Bernays-Schoenfinkel-Ramsey Fragment of Separation Logic. VMCAI 2017, pp 462-482
+- R. Iosif, A. Sangnier. How hard is it to verify flat affine counter systems with the finite monoid property? ATVA 2016, pp 89-105
+- A. Reynolds, R. Iosif, C. Serban and T. King. A Decision Procedure for Separation Logic in SMT. ATVA 2016, pp 244-261
+- R. Iosif, A. Rogalewicz and T. Vojnar. [Abstraction Refinement and Antichains for Trace Inclusion of Infinite State Systems](http://arxiv.org/pdf/1410.5056.pdf) TACAS 2016 pp 71-89
+- P. Ganty and R. Iosif. [Interprocedural Reachability for Flat Integer Programs](http://arxiv.org/abs/1405.3069). FCT 2015, pp 133-145. 
+- R. Iosif, A. Rogalewicz and T. Vojnar. Deciding Entailments in Inductive Separation Logic with Tree Automata. ATVA 2014, pp 201-218
+- M. Bozga, R. Iosif and F. Konecny.  [Safety Problems are NP-complete for Flat Integer Programs with Octagonal Loops](http://arxiv.org/abs/1307.5321). VMCAI 2014 pp 242-261  
+- R. Iosif, A. Rogalewicz, J. Simacek. The Tree Width of Separation Logic with Recursive Definitions. CADE 2013, pp 21-38 ('''Best Paper Award''')
+- P. Ganty, R. Iosif, F. Konecny. Underapproximation of Procedure Summaries for Integer Programs. TACAS 2013, pp 245-259
+- H. Hojjat, R. Iosif, F. Konecny, V. Kuncak, P. Ruemmer. Accelerating Interpolants. ATVA 2012, pp 187-202
+- H. Hojjat, F. Konecny, F. Garnier, R. Iosif, V. Kuncak, P. Ruemmer. A Verification Toolkit for Numerical Transition Systems. (Tool Paper). FM 2012, pp 247-251
+- M. Bozga, R. Iosif, F. Konecny. Deciding Conditional Termination. TACAS 2012, pp 252-266
+- M. Bozga, R. Iosif, F. Konecny. Fast Acceleration of Ultimately Periodic Relations. CAV 2010, pp 227-242
+- M. Bozga, P. Habermehl, R. Iosif, F. Konecny, T. Vojnar. Automatic Verification of Integer Array Programs. CAV 2009, pp 157-172
+- M. Bozga, C. Gîrlea, R. Iosif. Iterating Octagons. TACAS 2009, pp 337-351
+- R. Iosif, A. Rogalewicz. Automata-Based Termination Proofs. CIAA 2009, pp 165-177
+- M. Bozga, R. Iosif, S. Perarnau. Quantitative Separation Logic and Programs with Lists. IJCAR 2008, pp 34-49
+- P. Habermehl, R. Iosif, T. Vojnar. What Else Is Decidable about Integer Arrays? FoSSaCS 2008, pp 474-489
+- P. Habermehl, R. Iosif, T. Vojnar. A Logic of Singly Indexed Arrays. LPAR 2008, pp 558-573
+- P. Habermehl, R. Iosif, A. Rogalewicz, T. Vojnar. Proving Termination of Tree Manipulating Programs. ATVA 2007, pp 145-161
+- M. Bozga, R. Iosif. On Flat Programs with Lists. VMCAI 2007, pp 122-136
+- A. Bouajjani, M. Bozga, P. Habermehl, R. Iosif, P. Moro, T. Vojnar. Programs with Lists Are Counter Automata. CAV 2006, pp 517-531
+- M. Bozga, R. Iosif, Y. Lakhnech. Flat Parametric Counter Automata. ICALP 2006, pp 577-588
+- P. Habermehl, R. Iosif, T. Vojnar. Automata-Based Verification of Programs with Tree Updates. TACAS 2006, pp 350-364
+- M. Bozga, R. Iosif. On Decidability Within the Arithmetic of Addition and Divisibility. FoSSaCS 2005, pp 425-439
+- M. Bozga, R. Iosif, Y. Lakhnech. On Logics of Aliasing. SAS 2004, pp 344-360
+- M. Bozga, R. Iosif, Y. Lakhnech. Storeless semantics and alias logic. PEPM 2003, pp 55-65
+- R. Iosif. Symmetry Reduction Criteria for Software Model Checking. SPIN 2002, pp 22-41
+- R. Iosif. Exploiting Heap Symmetries in Explicit-State Model Checking of Software. ASE 2001, pp 254-261
