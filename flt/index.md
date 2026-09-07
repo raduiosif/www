@@ -18,7 +18,7 @@ sets that can be represented finitely on a computer.
 ### Prerequisites
 
 Basic notions of boolean logic and discrete mathematics (sets,
-relations, orders, functions); see [here](../lat/preliminaries.pdf)
+relations, orders, functions); see [here](https://drive.google.com/file/d/1JnKNGHq_J8IM4U2m1FV2ci6G7OtKJzOn/view?usp=sharing)
 for an introduction to the basic notions required by this
 course. Basic notions of automata theory and first/second-order logic
 could be useful and can be found [here](../lat/index.md)
