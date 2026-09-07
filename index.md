@@ -25,7 +25,7 @@
 ### Teaching
 
 - [Logic and Automata Theory](lat/index.md)
-- [Introduction to the Theory of Formal Languages](tfl/index.md)
+- [Introduction to the Theory of Formal Languages](flt/index.md)
 
 ### PhD Students/Alumni
 
