@@ -29,10 +29,11 @@ Level: PhD and Master 1-2
 
 Wednesdays between 14h00 and 16h00 (Paris time, GMT+1) in Room 206, 2nd floor of the [IMAG building](https://www.openstreetmap.org/?mlat=45.19056&mlon=5.76728#map=19/45.190560/5.767280)
 
-- [Lecture1](lecture1.pdf)
-- [Lecture2](lecture2.pdf)
-- [Lecture3](lecture3.pdf)
-- [Lecture4](lecture4.pdf)
+- [Introduction](Intro.pdf)
+- [Lecture1](Lecture1.pdf)
+- [Lecture2](Lecture2.pdf)
+- [Lecture3](Lecture3.pdf)
+- [Lecture4](Lecture4.pdf)
 
 ### Bibliography
 
