@@ -1,10 +1,10 @@
-&nbsp; [CNRS](https://www.cnrs.fr) Research Director <img align="left" src="Radu.jpg"> <br>
-&nbsp; [LIG](https://www.liglab.fr/en) laboratory <br>
-&nbsp; Office 208, [IMAG](https://batiment.imag.fr/) building <br>
-&nbsp; Université Grenoble Alpes <br>
-&nbsp; [700 Av. Centrale, 38400 Saint-Martin-d'Hères](https://maps.app.goo.gl/4XX788DvkZTCWdGT7) <br>
-&nbsp; +33 (0)4 57 42 22 21 <br>
-&nbsp; Radu [dot] Iosif [at] univ-grenoble-alpes [dot] fr <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [CNRS](https://www.cnrs.fr) Research Director <img align="left" src="Radu.jpg"> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [LIG](https://www.liglab.fr/en) laboratory <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Office 208, [IMAG](https://batiment.imag.fr/) building <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Université Grenoble Alpes <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [700 Av. Centrale, 38400 Saint-Martin-d'Hères](https://maps.app.goo.gl/4XX788DvkZTCWdGT7) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; +33 (0)4 57 42 22 21 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Radu [dot] Iosif [at] univ-grenoble-alpes [dot] fr <br>
 
 #### Research
 
