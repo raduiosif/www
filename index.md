@@ -6,14 +6,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp; +33 (0)4 57 42 22 21 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Radu [dot] Iosif [at] univ-grenoble-alpes [dot] fr <br>
 
-#### Research
+### Research
 
 - [PhD and internship subjects](subjects.md)
 - [Publications](pub/index.md) (full list on [DBLP](https://dblp.org/pid/81/5510.html))
 - [Software](software.md)
 - Habilitation Thesis ["Automata and Logics for Program Verification"](hdr.pdf)
 
-#### Funding
+### Funding
 
 - [PAVEDYS](https://raduiosif.github.io/PAVEDYS/) (2024-2028)
 - [NARCO](https://narco2022.github.io/) (2022-2026)
@@ -22,12 +22,12 @@
 - [AVERILES](https://lsv.ens-paris-saclay.fr/Projects/rntl-averiles/) (2006-2009)
 - [DYNAMO](https://www-verimag.imag.fr/~iosif/projects/ACI/aci-dynamo.html) (2003-2006)
 
-#### Teaching
+### Teaching
 
 - [Logic and Automata Theory](lat/index.md)
 - [Introduction to the Theory of Formal Languages](tfl/index.md)
 
-#### PhD Students/Alumni
+### PhD Students/Alumni
 
 - Christoffer Lind Andersen (2025 --) "Verification of Complex Distributed Systems with Broadcast Communication"
 - Neven Villani (2024 --) "Automated Verification of Complex Reconfigurable Distributed Systems"
@@ -37,7 +37,7 @@
 - Filip Konecny (2009 -- 2012) ["Relational Verification of Programs with Integer Data"](https://hal.science/tel-00805599v2)
 - Jiri Simacek (2009 -- 2012) ["Harnessing Forest Automata for Verification of Heap Manipulating Programs"](https://theses.hal.science/tel-00805794)
 
-#### Events
+### Events
 
 - Working Formal Methods Symposium (FROM 2025) Iasi, Romania, September 17-19, 2025 
 - An article from the CNRS Information Science Institute website (in French)
