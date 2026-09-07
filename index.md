@@ -9,7 +9,7 @@
 #### Research
 
 - [PhD and internship subjects](subjects.md)
-- [Publications](publications.md) (full list on [DBLP](https://dblp.org/pid/81/5510.html))
+- [Publications](pub/index.md) (full list on [DBLP](https://dblp.org/pid/81/5510.html))
 - [Software](software.md)
 - Habilitation Thesis ["Automata and Logics for Program Verification"](hdr.pdf)
 
