@@ -39,10 +39,10 @@
 
 ### Events
 
-- [Working Formal Methods Symposium](https://fromsymposium.github.io Working Formal Methods Symposium) (FROM 2025) Iasi, Romania, September 17-19, 2025 
+- [Working Formal Methods Symposium](https://fromsymposium.github.io) (FROM 2025) Iasi, Romania, September 17-19, 2025 
 - An [article](https://www.ins2i.cnrs.fr/en/node/3457) from the CNRS Information Science Institute website (in French)
 - [Skolem Award](https://cadeinc.org/Skolem-Award) for our 2013 CADE-24 paper The Tree Width of Separation Logic with Recursive Definitions
-- [Advances in Separation Logics](https://asl-workshop.github.io/asl22/) (ASL 2022) Haifa, Israel, July 31st, 2022
+- [Advances in Separation Logics](https://asl-workshop.github.io/asl22) (ASL 2022) Haifa, Israel, July 31st, 2022
 - [14th Summer School on Modelling and Verification of Parallel Processes](http://projects-verimag.imag.fr/movep2020) (MOVEP 2020) June 22-26, 2020, Grenoble
 - [Second Workshop on Automated Deduction for Separation Logics](https://popl20.sigplan.org/home/adsl-2020#program) January 20th, 2020, New Orleans, LA (POPL 2020)
 - [Journées GT Verif](http://gt-verif.loria.fr/Wiki.jsp?page=JA-2018) 28, 29, 30 May 2018, Grenoble
